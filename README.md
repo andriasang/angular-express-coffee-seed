@@ -9,7 +9,7 @@
 * CoffeeScript v1.3.3
 * Mongoose v2.7.3
 * Jade v0.27.0
-* Less 
+* Less v1.3.0
 * Twitter Bootstrap v2.0.4
 * Connect Assets v2.2.1
 
