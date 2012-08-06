@@ -1,0 +1,13 @@
+extends layout
+block body
+  div.navbar
+    div.navbar-inner.navbar-fixed-top
+      div.container
+        ul.nav
+          li
+            a(href='/') Home
+
+  div.container
+    header.jumbotron.subhead(id="overview")
+      h1 Angular Express Seed
+    div(ng-view)
