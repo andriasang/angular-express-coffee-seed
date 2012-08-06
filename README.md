@@ -1,6 +1,4 @@
-# Simple Blog based on Express Coffee Template 4 (1.4)
-
-## 
+## Seed app based on Express Coffee Template
 
 ## Technologies
 
@@ -11,7 +9,7 @@
 * Jade v0.27.0
 * Less v1.3.0
 * Twitter Bootstrap v2.0.4
-* Connect Assets v2.2.1
+* Connect Assets v2.3.1
 
 ## Requirements
 
