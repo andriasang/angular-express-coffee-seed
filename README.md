@@ -21,5 +21,5 @@
 * [Less](http://lesscss.org/)
 * [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
 * [connect-assets](http://github.com/TrevorBurnham/connect-assets)
-* [Mocha](http://visionmedia.github.com/mocha/)
+* [Mocha](http://mochajs.org/)
 * [Should.Js](https://github.com/visionmedia/should.js/)
